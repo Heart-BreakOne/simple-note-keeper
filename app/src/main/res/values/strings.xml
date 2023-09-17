@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note keeping</string>
+    <string name="insertnotelabel">Insert the note here:</string>
+    <string name="notetitlehint">Insert note title here</string>
+    <string name="header">ADD A NEW NOTE</string>
+    <string name="insertnotetitle">Insert the note title here:</string>
+    <string name="insertnote">Insert the note here</string>
+    <string name= "btn">ADD NOTE</string>
+</resources>
